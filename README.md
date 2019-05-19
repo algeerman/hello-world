@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repo!
+
+Greetings Earth!
+
+I'm Alex, an aspiring web developer.
